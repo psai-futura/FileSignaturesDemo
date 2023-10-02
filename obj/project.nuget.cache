@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "3pyPOxdyRY58QDdP7kd/4Kxkbn86s/0dGyGe15fW2VMj5do7zMfqgjzXK348A1Zes/BkA6lBHWA5AVDm7AQUgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\FileSignatursDemo\\FileSignaturesDemo\\FileSignaturesDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p.sai\\.nuget\\packages\\filesignatures\\4.4.0\\filesignatures.4.4.0.nupkg.sha512",
+    "C:\\Users\\p.sai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\p.sai\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\p.sai\\.nuget\\packages\\openmcdf\\2.2.1.9\\openmcdf.2.2.1.9.nupkg.sha512",
+    "C:\\Users\\p.sai\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\p.sai\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\p.sai\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\p.sai\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\p.sai\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\p.sai\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\p.sai\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
